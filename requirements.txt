@@ -1,0 +1,2 @@
+ontobio>=0.0
+jupyter>=0.0
