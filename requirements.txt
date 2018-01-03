@@ -1,2 +1,4 @@
-ontobio>=0.2.11
+ontobio>=0.2.26
 jupyter>=0.0
+matplotlib>=0.0
+matplotlib_venn>=0.0
